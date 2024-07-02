@@ -1,6 +1,6 @@
 # NLW eSports
 
-![preview](./.github/preview.png)
+https://github.com/joelsonteofilo/nlw-esports-explorer/blob/main/assets/esports.png?raw=true
 
 > Trilha Explorer
 
