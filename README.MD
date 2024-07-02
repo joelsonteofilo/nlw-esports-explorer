@@ -1,6 +1,6 @@
 # NLW eSports
 
-![alt text](image.png)
+<img src="assets/esports.png" alt="esports">
 
 > Trilha Explorer
 
