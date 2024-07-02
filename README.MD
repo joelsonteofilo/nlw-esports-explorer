@@ -1,6 +1,6 @@
 # NLW eSports
 
-<img src="assets/esports.png" alt="esports">
+![alt text][def2]
 
 > Trilha Explorer
 
@@ -11,3 +11,5 @@ Projeto construído do evento Next Level Week da Rocketseat.
 - HTML
 - CSS
 - Git e Github
+
+[def2]: assets/esports.png
